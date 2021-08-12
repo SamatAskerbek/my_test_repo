@@ -1,6 +1,8 @@
 class User:
 	def __init__(self):
-		pass
+	self = name
 
-	class UserProfile:
-		pass
+
+class UserProfile:
+	a = 10
+
